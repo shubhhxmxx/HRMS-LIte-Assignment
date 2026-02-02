@@ -1,0 +1,21 @@
+.
+.gitignore
+API_COLLECTION.json
+DEPLOYMENT.md
+PROJECT_STRUCTURE.md
+PROJECT_TREE.txt
+QUICKSTART.md
+README.md
+START_HERE.md
+SUBMISSION.md
+backend
+ .env.example
+ Dockerfile
+ main.py
+ render.yaml
+ requirements.txt
+frontend
+ index.html
+ package.json
+ vercel.json
+{frontend,backend}
