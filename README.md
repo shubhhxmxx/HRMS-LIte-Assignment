@@ -144,13 +144,15 @@ npx serve .
 ## 📱 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="1821" height="844" alt="image" src="https://github.com/user-attachments/assets/f824f80e-064d-4dd5-895f-024444c7209f" />
+
 
 ### Employee Management
-![Employees](screenshots/employees.png)
+<img width="1834" height="817" alt="image" src="https://github.com/user-attachments/assets/1d62bb0a-2614-4f18-847f-92a37655c0ca" />
 
 ### Attendance Tracking
-![Attendance](screenshots/attendance.png)
+<img width="1850" height="794" alt="image" src="https://github.com/user-attachments/assets/1b7a032f-f497-4c6e-a63f-471be805b348" />
+
 
 ## 🔒 Security Features
 
